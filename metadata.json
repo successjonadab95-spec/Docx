@@ -1,0 +1,6 @@
+{
+  "name": "Docx Script Runner",
+  "description": "Browser-Based DOCX Script Runner utility that safely sandboxes and executes NodeJS script payloads to generate Word documents directly within the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
